@@ -1,0 +1,156 @@
+{
+  "women of history": {
+    "100": {
+      "question": "Who is Amelia Earhart",
+      "answer": "This woman was the first female aviator to fly solo across the Atlantic."
+    },
+    "200": {
+      "question": "Who is Hellen Keller",
+      "answer": "She was an American author, lecturer, and political activist who was also deaf and blind."
+    },
+    "300": {
+      "question": "Who is Harriet Tubman",
+      "answer": "This woman made over a dozen rescue missions using the underground railroad."
+    },
+    "400": {
+      "question": "Who is Maya Angelou",
+      "answer": "This poet and author said: A wise woman wishes to be no one's enemy; a wise woman refuses to be anyone's victim."
+    },
+    "500": {
+      "question": "Who is Joan of Arc",
+      "answer": "Nicknamed the maid of Orleans, this heroine of France gained fame for her role in the Hundred Years War."
+    }
+  },
+  "female world leaders": {
+    "100": {
+      "question": "Who is Princess Diana",
+      "answer": "This woman was considered the People's Princess."
+    },
+    "200": {
+      "question": "Who is Margaret Thatcher",
+      "answer": "This woman served as the Prime Minister of the United Kingdom from 1979 to 1990."
+    },
+    "300": {
+      "question": "Who is Queen Elizabeth the First",
+      "answer": "She gained fame and credibility for stabilizing the English monarchy after the turmoil of Henry the eighth's reign."
+    },
+    "400": {
+      "question": "Who is Angela Merkel",
+      "answer": "As chancellor of Germany, she has served as the de facto leader of the European Union during financial crisis."
+    },
+    "500": {
+      "question": "Who is Benazir Bhutto",
+      "answer": "She was the first woman to lead a Muslim state as the Prime Minister of Pakistan."
+    }
+  },
+  "women of influence": {
+    "100": {
+      "question": "Who is Mother Teresa",
+      "answer": "This Nobel Peace Prize honoree is famous for her outstanding service to the poor and recognized as a saint."
+    },
+    "200": {
+      "question": "Who is Rosa Parks",
+      "answer": "This woman's refusal to give up her seat on the bus sparked the civil rights movement."
+    },
+    "300": {
+      "question": "Who is CoCo Chanel",
+      "answer": "This woman was a French fashion designer and the founder and namesake of the Chanel brand."
+    },
+    "400": {
+      "question": "Who is JK Rowling",
+      "answer": "This British novelist published her best-selling fantasy series of books under a pen name."
+    },
+    "500": {
+      "question": "Who is Jane Austen",
+      "answer": "This English novelist of the influence challenged the dependence of women in marriage, social standing and economic security during the early 1800’s."
+    }
+  },
+  "women of business": {
+    "100": {
+      "question": "Who is Kelly Gratz",
+      "answer": "This woman serves as the current President of ICC in Columbus, Ohio."
+    },
+    "200": {
+      "question": "Who is Sheryl Sandberg",
+      "answer": "This woman is the current COO of Facebook."
+    },
+    "300": {
+      "question": "Who is Ginni Rometty",
+      "answer": "This woman currently serves as the Chairman, President and CIO of IBM."
+    },
+    "400": {
+      "question": "Who is Meg Whitman",
+      "answer": "This woman is the current CEO of HP."
+    },
+    "500": {
+      "question": "Who is Safra Catz",
+      "answer": "This woman currently serves as Co-CEO of Oracle."
+    }
+  },
+  "women of entertainment": {
+    "100": {
+      "question": "Who is Ellen DeGeneres",
+      "answer": "This comedian, talk show host, and LGBT activist has hosted her own talk show since 2003."
+    },
+    "200": {
+      "question": "Who is Vanna White",
+      "answer": "This American television personality has been the hostess of Wheel of Fortune since 1982."
+    },
+    "300": {
+      "question": "Who is Audrey Hepburn",
+      "answer": "In 1953, this woman won the Academy Award for Best Actress for her role in Roman Holiday."
+    },
+    "400": {
+      "question": "Who is Ingrid Bergman",
+      "answer": "This Swedish actress is best known for her role as Isla Lund in Casablanca."
+    },
+    "500": {
+      "question": "Who is Meghan Kelley",
+      "answer": "This American journalist, political commentator and former corporate defense attorney currently hosts a live-audience, morning show on NBC."
+    }
+  },
+  "female athletes": {
+    "100": {
+      "question": "Who is Mia Hamm",
+      "answer": "This soccer icon played as the forward for the United States national soccer team from 1987 – 2004. "
+    },
+    "200": {
+      "question": "Who is Simone Biles",
+      "answer": "This gymnast was the 2016 Olympic individual all-around gold medalist."
+    },
+    "300": {
+      "question": "Who is Lisa Leslie",
+      "answer": "This four-time Olympic gold medalist was the first woman to slam dunk in a WMBA game."
+    },
+    "400": {
+      "question": "Who is Jackie Joyner-Kersee",
+      "answer": "This retired American track and field athlete was voted as Sports Illustrated’s Greatest Female Athlete of all time."
+    },
+    "500": {
+      "question": "Who is Serena Williams",
+      "answer": "This tennis player won 23 Grand Slam titles and was ranked #1 in tennis singles on 8 separate occasions."
+    }
+  },
+  "former first ladies": {
+    "100": {
+      "question": "Who is Martha Washington",
+      "answer": "She was the first, First Lady in our country’s history."
+    },
+    "200": {
+      "question": "Who is Laura Bush",
+      "answer": "This woman was serving as First Lady during the horrific attacks of September 11, 2001."
+    },
+    "300": {
+      "question": "Who is Michelle Obama",
+      "answer": "This woman served as First Lady to the 44th President of the United States and was raised on the south side of Chicago."
+    },
+    "400": {
+      "question": "Who is Jackie Kennedy-Onasis",
+      "answer": "This First Lady’s husband was assassinated in 1963 during his third year of the Presidency."
+    },
+    "500": {
+      "question": "Who is Eleanor Roosevelt",
+      "answer": "President Harry S. Truman later called her the First Lady of the World in tribute to her human rights achievements."
+    }
+  }
+}

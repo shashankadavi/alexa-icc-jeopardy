@@ -1,0 +1,16 @@
+  {
+  "name": "alexa-icc-jeopardy",
+  "version": "1.0.0",
+  "description": "Alexa Skill for a simplified Jeopardy game focusing on Women in History",
+  "readme": "Alexa ICC Jeopardy",
+  "repository": "my repository",
+  "main": "index.js",
+  "scripts": {
+    "zip": "zip -r ../alexa-demo.zip . -x 'package.json' -x '*.git*' "
+  },
+  "author": "Shashank Adavi, Geoffrey Hall",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-sdk": "^1.0.13"
+  }
+}
