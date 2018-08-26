@@ -1,0 +1,55 @@
+LIST_OF_CATEGORIES
+
+women of history
+female world leaders
+women of influence
+women of business
+women of entertainment
+female athletes
+former first ladies
+
+LIST_OF_AMOUNTS
+
+100
+200
+300
+400
+500
+
+LIST_OF_WOMEN
+
+Amelia Earhart
+Hellen Keller
+Harriet Tubman
+Maya Angelou
+Joan of Arc
+Princess Diana
+Margaret Thatcher
+Queen Elizabeth the First
+Angela Merkel
+Benazir Bhutto
+Mother Teresa
+Rosa Parks
+CoCo Chanel
+JK Rowling
+Jane Austen
+Kelly Gratz
+Sheryl Sandberg
+Ginni Rometty
+Meg Whitman
+Safra Catz
+Ellen DeGeneres
+Vanna White
+Audrey Hepburn
+Ingrid Bergman
+Meghan Kelley
+Mia Hamm
+Simone Biles
+Lisa Leslie
+Jackie Joyner-Kersee
+Serena Williams
+Martha Washington
+Laura Bush
+Michelle Obama
+Jackie Kennedy-Onasis
+Eleanor Roosevelt

@@ -1,0 +1,4 @@
+ICCJeopardyIntent {Category}
+ICCJeopardyIntent {Category} {Amount}
+
+Who is {Women}
