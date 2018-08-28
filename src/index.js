@@ -95,9 +95,15 @@ function checkAmountExists(amount){
 }
 
 function tellJeopardyAnswer(category,amount){
-
+	let answer = board[category][amount].answer;
+	this.response.speak(answer);
 }
 
 function verifyJeopardyQuestion(question){
-
+	let question = "who is" + board[category][amount].question.toString().toLowerCase();
+	let answer = board[category][amount].answer.toLowerCase();
+	if (question == answer) {
+		return true;
+	}
+	return false;
 }
