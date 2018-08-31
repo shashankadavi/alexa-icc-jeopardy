@@ -47,7 +47,7 @@ const handlers = {
 
               let name = this.event.request.intent.slots['Women'].value.toString().toLowerCase();
 
-              let isCorrectQuestion = verifyJeopardyQuestion(name);
+              let isCorrectQuestion = verifyJeopardyQuestion(name, category, amount);
 
                   if(isCorrectQuestion){
                     this.response.speak('Correct Answer');
@@ -99,8 +99,8 @@ function tellJeopardyAnswer(category,amount){
 	this.response.speak(answer);
 }
 
-function verifyJeopardyQuestion(question){
-	let question = "who is" + board[category][amount].question.toString().toLowerCase();
+function verifyJeopardyQuestion(question, category, amount){
+	let question = "who is" + question.toString().toLowerCase();
 	let answer = board[category][amount].answer.toLowerCase();
 	if (question == answer) {
 		return true;
