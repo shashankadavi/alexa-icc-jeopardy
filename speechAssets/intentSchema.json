@@ -10,7 +10,12 @@
           {
             "name":"Amount",
             "type":"LIST_OF_AMOUNTS"
+          },
+          {
+            "name":"Women",
+            "type":"LIST_OF_WOMEN"
           }
+
         ]
       },
 
